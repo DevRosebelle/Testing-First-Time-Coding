@@ -1,0 +1,3 @@
+document.getElementById("klickButton").addEventListener("click", () => {
+    alert("Du hast den Button geklickt!");
+});
